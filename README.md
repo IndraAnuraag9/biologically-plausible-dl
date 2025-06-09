@@ -21,6 +21,11 @@ notebooks/
 
 ## Requirements
 ```
+torch
+torchvision
+numpy
+matplotlib
+tqdm
 ```
 
 ## Implementation Details
